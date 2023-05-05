@@ -1,0 +1,166 @@
+{
+  "id": "3dd04e20-b3a9-11ed-b8d1-1de2c7e3e2f1",
+  "type": "chat",
+  "pageId": "6217dc581ffac05b1d7b96d4",
+  "visitor": {
+    "name": "V1677177498447284",
+    "id": "6217dc581ffac05b1d7b96d4-wLldyhFpClz8J7CeChMyt",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Troutman"
+  },
+  "messageCount": 16,
+  "chatDuration": 493,
+  "rating": 0,
+  "createdOn": "2023-02-23T18:38:51.891Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2023-02-23T18:38:51.891Z",
+      "msg": "Thank you for visiting CS3337. Our customer support team is available online now to answer your questions on our complete line of performance products."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-23T18:40:35.744Z",
+      "msg": "I need a better tune map for my system"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-23T18:41:02.294Z",
+      "msg": "What hardware do you have?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-23T18:41:47.453Z",
+      "msg": "A new CPU."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-23T18:42:23.943Z",
+      "msg": "AMD or Intel?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-23T18:42:44.130Z",
+      "msg": "Not sure, I think Intel\""
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-23T18:43:52.119Z",
+      "msg": "i7?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-23T18:43:59.750Z",
+      "msg": "With quard core?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-23T18:44:15.906Z",
+      "msg": "Yes, quard core"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-23T18:44:24.650Z",
+      "msg": "Please use the mother with intel compatable ."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-23T18:45:32.868Z",
+      "msg": "I only see a \"Generic\" setting available"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-23T18:46:20.905Z",
+      "msg": "You should see Intel"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-23T18:46:38.868Z",
+      "msg": "Yes those are the options"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-23T18:46:50.537Z",
+      "msg": "Click Intel."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-23T18:46:57.224Z",
+      "msg": "Please use the Intel compatable."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-23T18:47:04.642Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-23T18:47:05.368Z",
+      "msg": "Standard."
+    }
+  ],
+  "domain": "www.cs3337.com"
+}

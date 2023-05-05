@@ -1,0 +1,46 @@
+{
+  "id": "dcc333a0-ba00-11ed-8297-2514c2caf195",
+  "type": "chat",
+  "pageId": "6217dc581ffac05b1d7b96d4",
+  "visitor": {
+    "name": "V1677787413187735",
+    "id": "6217dc581ffac05b1d7b96d4-vn3HzmqaUDe5N3NKjfnlV",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Monongahela"
+  },
+  "messageCount": 2,
+  "chatDuration": 3659,
+  "rating": 0,
+  "createdOn": "2023-03-03T20:21:09.966Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2023-03-03T20:21:09.966Z",
+      "msg": "Thank you for visiting CS3337. Our customer support team is available online now to answer your questions on our complete line of performance products."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-03-03T20:57:29.125Z",
+      "msg": "What is your return policy if I have a computer that I connect to my TV but it doesn't work correctly?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-03-03T20:58:10.610Z",
+      "msg": "We will need proof of the computer 'not working correctly'."
+    }
+  ],
+  "domain": "www.cs3337.com"
+}

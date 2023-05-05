@@ -1,0 +1,81 @@
+{
+  "id": "fed2e620-ba14-11ed-8c0f-0f712e281e07",
+  "type": "chat",
+  "pageId": "6217dc581ffac05b1d7b96d4",
+  "visitor": {
+    "name": "V1677880492825291",
+    "id": "6217dc581ffac05b1d7b96d4-j1UHbrAXK2jO8aZRFdPuk",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Cheshire"
+  },
+  "messageCount": 6,
+  "chatDuration": 680,
+  "rating": 0,
+  "createdOn": "2023-03-03T22:45:16.864Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2023-03-03T22:45:16.864Z",
+      "msg": "Thank you for visiting CS3337. Our customer support team is available online now to answer your questions on our complete line of performance products."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-03-03T22:48:36.866Z",
+      "msg": "I'm looking at getting the macbook-pro?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-03-03T22:50:20.545Z",
+      "msg": "Your computer only has 32GB memory, but it is still classified as a powerful computer."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-03-03T22:50:27.749Z",
+      "msg": "Part number for your computer is Customize your 16‑inch MacBook Pro - Space Gray."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-03-03T22:50:43.849Z",
+      "msg": "https://www.apple.com/us-edu/shop/buy-mac/macbook-pro/16-inch-space-gray-apple-m2-max-with-12-core-cpu-and-38-core-gpu-1tb"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-03-03T22:50:51.842Z",
+      "msg": "Thank you very much"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-03-03T22:50:55.092Z",
+      "msg": "No problem."
+    }
+  ],
+  "domain": "www.cs3337.com"
+}

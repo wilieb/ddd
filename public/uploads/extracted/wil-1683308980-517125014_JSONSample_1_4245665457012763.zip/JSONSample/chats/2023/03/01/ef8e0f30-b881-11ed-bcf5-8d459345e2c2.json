@@ -1,0 +1,72 @@
+{
+  "id": "ef8e0f30-b881-11ed-bcf5-8d459345e2c2",
+  "type": "chat",
+  "pageId": "6217dc581ffac05b1d7b96d4",
+  "visitor": {
+    "name": "V1677627559878771",
+    "id": "6217dc581ffac05b1d7b96d4-fuDK4oNE9NvwA9l7EfpXX",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Elk Grove"
+  },
+  "messageCount": 5,
+  "chatDuration": 355,
+  "rating": 0,
+  "createdOn": "2023-03-01T22:40:04.930Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2023-03-01T22:40:04.930Z",
+      "msg": "Thank you for visiting CS3337. Our customer support team is available online now to answer your questions on our complete line of performance products."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-03-01T22:40:17.862Z",
+      "msg": "Hello, I have a 2002 MacBook Pro. I just replaced battery. I have an apple logo from the outside. I just put on some older 3.5\" headphone plug. Wondering if the Sony or Samsung product would work well to connect to my computer?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-03-01T22:42:30.556Z",
+      "msg": "Unfortunately we do not have any headphone model."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-03-01T22:43:54.462Z",
+      "msg": "OK, thx, will keeping looking around."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-03-01T22:44:32.985Z",
+      "msg": "No problem. I think maybe LG will have something for you."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-03-01T22:45:59.834Z",
+      "msg": "I suggest talking to your local apple shop to see what they use."
+    }
+  ],
+  "domain": "www.cs3337.com"
+}

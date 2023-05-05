@@ -1,0 +1,37 @@
+{
+  "id": "16ee16c0-b9fd-11ed-9c86-e3773aad5d3b",
+  "type": "chat",
+  "pageId": "6217dc581ffac05b1d7b96d4",
+  "visitor": {
+    "name": "V1677787413187735",
+    "id": "6217dc581ffac05b1d7b96d4-vn3HzmqaUDe5N3NKjfnlV",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Monongahela"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2023-03-03T19:54:09.777Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2023-03-03T19:54:09.777Z",
+      "msg": "Thank you for visiting CS3337. Our customer support team is available online now to answer your questions on our complete line of performance products."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-03-03T19:58:11.735Z",
+      "msg": "Hello, I am thinking about buying the computer, but I have read on some third party sites (Microsoft, etc.) that some customers are having issues with the product having bugs after initial installation. I am curious to know if you have taken any steps to resolve this and if a similar issue were to come up, your return/replacement policy. Thank you!"
+    }
+  ],
+  "domain": "www.cs3337.com"
+}

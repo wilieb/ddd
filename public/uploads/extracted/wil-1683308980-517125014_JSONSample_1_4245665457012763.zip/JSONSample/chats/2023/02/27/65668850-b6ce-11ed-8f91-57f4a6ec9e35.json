@@ -1,0 +1,63 @@
+{
+  "id": "65668850-b6ce-11ed-8f91-57f4a6ec9e35",
+  "type": "chat",
+  "pageId": "6217dc581ffac05b1d7b96d4",
+  "visitor": {
+    "name": "V1677434954512984",
+    "id": "6217dc581ffac05b1d7b96d4-pkX_xnRqaF3cDOuZZTjtw",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Chicago"
+  },
+  "messageCount": 4,
+  "chatDuration": 366,
+  "rating": 0,
+  "createdOn": "2023-02-27T18:42:20.995Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2023-02-27T18:42:20.995Z",
+      "msg": "Thank you for visiting CS3337. Our customer support team is available online now to answer your questions on our complete line of performance products."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-27T18:45:28.971Z",
+      "msg": "Hello"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-27T18:46:04.045Z",
+      "msg": "I just bought an CPU from a dealership. It has one of your logo on it and I need some help"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Steve Darrow"
+      },
+      "type": "msg",
+      "time": "2023-02-27T18:48:16.174Z",
+      "msg": "hOW MAY WE HELP?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Steve Darrow"
+      },
+      "type": "msg",
+      "time": "2023-02-27T18:48:27.240Z",
+      "msg": "Sorry, CAPS lock."
+    }
+  ],
+  "domain": "www.cs3337.com"
+}

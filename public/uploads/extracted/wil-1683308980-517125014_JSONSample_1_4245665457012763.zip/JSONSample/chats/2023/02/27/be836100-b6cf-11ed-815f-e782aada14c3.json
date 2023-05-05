@@ -1,0 +1,302 @@
+{
+  "id": "be836100-b6cf-11ed-815f-e782aada14c3",
+  "type": "chat",
+  "pageId": "6217dc581ffac05b1d7b96d4",
+  "visitor": {
+    "name": "V1677434954512984",
+    "id": "6217dc581ffac05b1d7b96d4-pkX_xnRqaF3cDOuZZTjtw",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Chicago"
+  },
+  "messageCount": 31,
+  "chatDuration": 1650,
+  "rating": 0,
+  "createdOn": "2023-02-27T18:51:59.965Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2023-02-27T18:51:59.965Z",
+      "msg": "Thank you for visiting CS3337. Our customer support team is available online now to answer your questions on our complete line of performance products."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-27T18:52:41.494Z",
+      "msg": "That's ok. When it was at shop I believe power died. I think it lost its settings and I don't have the info on the system."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-27T18:59:49.535Z",
+      "msg": "What are my options"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:02:21.439Z",
+      "msg": "I don't see any of the past messages. How can I help you?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:02:53.019Z",
+      "msg": "Do you need help with a system?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:02:53.363Z",
+      "msg": "I just bought a computer from a shop. It has one of your system on it and I need some help"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:03:03.860Z",
+      "msg": "That's ok. When it was at shop I believe battery died. I think it lost its settings and I don't have the info on the system."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:03:11.601Z",
+      "msg": "Gotcha. What model is on the system?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:03:29.296Z",
+      "msg": "I believe it's a Intel i7"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:04:05.988Z",
+      "msg": "Desktop?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:04:14.312Z",
+      "msg": "Laptop*"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:04:29.106Z",
+      "msg": "This is the monitor over the top, correct?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:04:56.284Z",
+      "msg": "Yes."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "file",
+      "time": "2023-02-27T19:05:00.284Z",
+      "data": {
+        "uri": "https://thumbs.dreamstime.com/z/footbridge-sea-beach-meditation-journey-calm-hormone-sunset-sea-yoga-footbridge-sea-beach-meditation-journey-calm-hormone-128381503.jpg",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:05:16.562Z",
+      "msg": "Here is your instruction."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:05:26.602Z",
+      "msg": "How do I set these"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:06:11.331Z",
+      "msg": "Put the computer in the 'On' position, not the system on, only power at this time. As if you are about to actually start the system."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:06:27.958Z",
+      "msg": "You will see the Red LED lights come on."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:07:22.965Z",
+      "msg": "Use the 3 push buttons on the keyboard to insert the values on each mode. Match the Mode and Values to the map I sent above."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:08:43.738Z",
+      "msg": "What are the different modes?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:09:20.917Z",
+      "msg": "Each mode changes the settings"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:09:34.012Z",
+      "msg": "You need to insert all modes/values to get 1 tune."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "file",
+      "time": "2023-02-27T19:10:06.648Z",
+      "data": {
+        "uri": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:10:18.950Z",
+      "msg": "This grid is your 'tune'. Each mode controls a different square."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:12:07.835Z",
+      "msg": "Ok thank you."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:12:20.389Z",
+      "msg": "Is it tuned to system?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:12:46.456Z",
+      "msg": "It is tuned for the system."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:13:26.584Z",
+      "msg": "Anything else I'll need for it? I do know mode 1 is set to value right now so I know it's not right"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:16:47.703Z",
+      "msg": "You need to insert modes 1 through 33."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:17:09.463Z",
+      "msg": "Then you should be all set."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:18:21.528Z",
+      "msg": "Ok. Thank you. Have a good day"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-02-27T19:19:30.013Z",
+      "msg": "No problem. You too!"
+    }
+  ],
+  "domain": "www.cs3337.com"
+}

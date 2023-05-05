@@ -1,0 +1,63 @@
+{
+  "id": "c3e5fa30-b865-11ed-ae9c-4d4fc4db1bff",
+  "type": "chat",
+  "pageId": "6217dc581ffac05b1d7b96d4",
+  "visitor": {
+    "name": "V1677696062971746",
+    "id": "6217dc581ffac05b1d7b96d4-sbPRkgsuPSQwJ7vSZVZjx",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Evans"
+  },
+  "messageCount": 4,
+  "chatDuration": 859,
+  "rating": 0,
+  "createdOn": "2023-03-01T19:18:24.678Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2023-03-01T19:18:24.678Z",
+      "msg": "Thank you for visiting CS3337. Our customer support team is available online now to answer your questions on our complete line of performance products."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-03-01T19:20:18.644Z",
+      "msg": "I'm having issues with my computer. I have the update downloaded that's recommended according to my setup. It's been an ongoing issue for a while. Will there be a specialist at computer week that can help with this?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-03-01T19:22:49.687Z",
+      "msg": "Yes, we will have a special tech at Computer Show."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2023-03-01T19:26:19.533Z",
+      "msg": "Awesome, see yall there"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Mathew"
+      },
+      "type": "msg",
+      "time": "2023-03-01T19:28:10.909Z",
+      "msg": "Sounds good 👍"
+    }
+  ],
+  "domain": "www.cs3337.com"
+}
